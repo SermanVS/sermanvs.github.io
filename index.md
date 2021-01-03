@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="css/images/favicon.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="css/images/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <title>Cats</title>
+</head>
+<body>
+<div class="logo">
+    <h1>
+        <a href="index.html">Kitty paradise</a>
+    </h1>
+</div>
+<ul class="menu">
+    <li><a href="gifs.html">Gifs</a></li>
+    <li><a href="merch.html">Merch</a></li>
+    <li><a href="about.html">About</a></li>
+</ul>
+
+<div class='sliderA'>
+    <input type="radio" name="slider1" id="slider1_1" checked="checked">
+    <label for="slider1_1"></label>
+    <div>
+        <p>This cat is amazing!</p>
+        <img src="css/images/cat1.jpg">
+    </div>
+    <input type="radio" name="slider1" id="slider1_2">
+    <label for="slider1_2"></label>
+    <div>
+        <p>Look at those two!</p>
+        <img src="css/images/cat2.jpg">
+    </div>
+    <input type="radio" name="slider1" id="slider1_3">
+    <label for="slider1_3"></label>
+	<div>
+        <p>This little one is adorable!</p>
+        <img src="css/images/cat3.jpg">
+    </div>
+    <input type="radio" name="slider1" id="slider1_4">
+    <label for="slider1_4"></label>
+    <div>
+        <p>Just take a look at his pose!</p>
+        <img src="css/images/cat4.jpg">
+    </div>
+</div>
+
+<div class="container">
+	<div class="row">
+      <div class="col-1-1">
+	  <p>
+			Please report any issue you've noticed to Alina Mokhova: <a href="mailto:daddy2die@gmail.com">dev@kittyparadise.com</a>.
+	  </p>
+	  </div>
+    </div>
+</div>
+
+</div>
+</body>
+</html>
